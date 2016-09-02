@@ -1,0 +1,22 @@
+{
+  "name": "forecast.io-language-enum-generator",
+  "version": "1.0.0",
+  "description": "Generate a C# enumeration from the Forecast.io docs updated online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f0xy/forecast.io-language-enum-generator.git"
+  },
+  "author": "Charl Cilliers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f0xy/forecast.io-language-enum-generator/issues"
+  },
+  "homepage": "https://github.com/f0xy/forecast.io-language-enum-generator#readme",
+  "dependencies": {
+    "jsdom": "^9.4.5"
+  }
+}
